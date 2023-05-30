@@ -1,0 +1,13 @@
+package parameterization;
+
+import org.testng.annotations.Test;
+
+public class TestParameterization {
+	
+	@Test
+	public void doLogin(String userName, String password) {
+		
+		System.out.println(userName+"----"+password);
+	}
+
+}

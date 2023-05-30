@@ -1,0 +1,23 @@
+package testcases;
+
+import org.testng.Assert;
+
+public class TestCase2 {
+	
+	public void validateTitle() {
+		
+		String expected_title = "yahoo.com";
+		String actual_title = "google.com";
+		
+		/*
+		 * if(expected_title.equals(actual_title)) {
+		 * 
+		 * System.out.println("Test case pass"); }else {
+		 * System.out.println("Test case fail"); }
+		 */
+		
+		Assert.assertEquals(actual_title, expected_title);
+		
+	}
+
+}

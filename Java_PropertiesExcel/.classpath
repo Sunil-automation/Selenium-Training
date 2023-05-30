@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="F:/POI_JArs/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="F:/POI_JArs/poi-5.2.3.jar"/>
+	<classpathentry kind="lib" path="F:/POI_JArs/poi-ooxml-5.2.3.jar"/>
+	<classpathentry kind="lib" path="F:/POI_JArs/poi-ooxml-schemas-4.1.2.jar"/>
+	<classpathentry kind="lib" path="F:/POI_JArs/xmlbeans-5.1.1.jar"/>
+	<classpathentry kind="lib" path="F:/POI_JArs/commons-collections4-4.4 (1).jar"/>
+	<classpathentry kind="lib" path="F:/POI_JArs/commons-io-2.12.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

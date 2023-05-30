@@ -1,0 +1,11 @@
+package paralleltest;
+
+public class BaseTest {
+	
+	public WebDriver driver;
+	
+	public WebDriver getDriver(String browser) {
+		
+	}
+
+}
